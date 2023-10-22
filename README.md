@@ -1,2 +1,2 @@
-# Naive Bees
+# Naïve Bees
  
