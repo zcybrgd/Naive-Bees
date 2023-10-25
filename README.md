@@ -1,10 +1,10 @@
 # Naïve Bees
-**first step: **
+## first step: 
 # Image Loading and Processing
 - loading the bumble and honey bees images and manipulating them using the PIL library
 - making a pipeline with converting the loaded images to grayscale to eventually save them
 
-**libraries used= ** PIL, numpy, matplotlib
+# # libraries used=  PIL, numpy, matplotlib
 **second step: **
 # Predict Species from Images
 - building a binary classifier using supervised learning to detect honey bees and bumble bees in images.
@@ -15,7 +15,7 @@
 - Performing dimension reduction using PCA
 
 
-**libraries used+= ** sklearn, skimage
-**third step: **
+# # libraries used+= sklearn, skimage
+# # third step: 
 # Deep Learning with Images
 
