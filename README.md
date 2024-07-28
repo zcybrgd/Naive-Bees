@@ -18,4 +18,9 @@
 ## libraries used+= sklearn, skimage
 ## third step: 
 # Deep Learning with Images
+- Building a Convolutional Neural Network to binary classify the bees in the database
+- Normalization of the data using the standard scaler
+- Visualizing the accuracy and loss metrics for the model on training, testing and evaluation data
+- Loading the model and re-using it in different emplacements and visualizing the history of the model
 
+## libraries used+= keras
